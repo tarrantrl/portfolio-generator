@@ -1,3 +1,7 @@
+// const profileDataArgs = process.argv.slice(2, process.argv.length); // slice does not include last index, so don't say length-1
+
+// const [name, github] = profileDataArgs;
+
 // arrow functions can use an implicit return, don't need to specify it's a return if it's a simple action
 // const printProfileData = profileDataArr => {
 //     profileDataArr.forEach(profileItem => console.log(profileItem));
